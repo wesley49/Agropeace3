@@ -1,0 +1,331 @@
+/* CONTEÚDO GERAL */
+
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* CONTEÚDO DO HEADER */
+
+#header {
+    z-index: 5;
+    background: white;
+    width: 100%;
+    height: 10%;
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar-track {
+    background-color: rgb(156, 235, 156);
+}
+::-webkit-scrollbar {
+    background: #F4F4F4;
+    width: 6px;
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(16, 143, 16);
+}
+
+/* MENU DE NAVEGAÇÃO */
+
+.container_nav {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+/* CONTENT LEFT */
+
+.content_left {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 6%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.content_left img {
+    width: 95%;
+    height: 68px;
+    padding-left: 6px;
+    background: transparent;
+}
+
+/* CONTENT RIGHT */
+
+.content_right {
+    border-bottom: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 94%;
+    height: 66px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;    
+    height: 100%;
+}
+
+.menu ul {
+    margin: 0;
+    list-style: none;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 35%;
+    height: 100%;
+}
+
+.menu ul a {
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+    width: 100%;
+    height: 100%;
+}
+
+.menu li {
+    margin-top: 10%;
+}
+
+/* NAVEGAÇÃO - HOVER */
+
+.menu a:hover {
+    background: #0d3b02;
+    transition-duration: 1s;
+    color: white;
+}
+
+/* MENU LATERAL */
+
+.menu_lateral {
+    padding-top: 1%;
+    float: left;
+    border-right: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    background: transparent;
+    width: 6%;
+    height: 590px;
+}
+
+.icons {
+    cursor: pointer;
+    text-align: center;
+    background: transparent;
+    width: 100%;
+    height: 19%;
+}
+
+.icons img {
+    width: 67%;
+    height: 67%;
+}
+
+.icons p {
+    margin: 0;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.icons:hover {
+    transition-duration: 1s;
+    background: #34a718;
+    color: white;
+    animation: pulse;
+    animation-duration: 1s;
+}
+
+/* CONTEÚDO GERAL DA ESQUERDA (GENERAL LEFT) */
+
+.general_left {
+    background: transparent;
+    float: left;
+    width: 42%;
+    height: 604px;
+}
+
+/* CONTEÚDO DIREITA (GENERAL RIGHT) */
+
+.general_right {
+    margin: 0 auto;
+    text-align: center;
+    background: transparent;
+    width: 50%;
+    height: 603px;
+    overflow-y: scroll;
+    float: right;   
+}
+
+/* CONTEÚDO DA DIREITA - GERAL */
+
+.content_cadastro {
+    margin: 0 auto;
+    margin: 1%;
+    margin-left: 7%;
+    box-shadow: 0px 0px 10px rgb(5, 155, 5);
+    background: transparent;
+    width: 85%;
+    height: 700px;
+    overflow: hidden;
+}
+
+.txtH {
+    margin: 2.5% 0;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.txtP {
+    margin: 0;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.txtCadastro {
+    margin: 3% 0;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-weight: 560;
+}
+
+input:focus {
+    outline: 0 none; /* Retira a borda padrão dos navegadores no momento de click no Input */
+}
+
+::-webkit-input-placeholder {
+    color: black;
+    font-size: 14px;
+}
+
+
+/* DIVS CONTAINER */
+
+.general {
+    margin: 0 auto;
+    margin-top: 5%;
+    background: transparent;
+    width: 55%;
+    height: 20%;
+}
+
+.contato {
+    margin: 0 auto;
+    margin-top: 5%;
+    background: transparent;
+    width: 55%;
+    height: 16%;
+}
+
+.endereco {
+    margin: 0 auto;
+    margin-top: 5%;
+    background: transparent;
+    width: 55%;
+    height: 28%;
+}
+
+.nivel {
+    margin: 0 auto;
+    margin-top: 5%;
+    background: transparent;
+    width: 55%;
+    height: 12%;
+}
+
+/* CAMPOS */
+
+.campo {
+    margin-top: 2%;
+    background: transparent;
+    width: 100%;
+    height: 27px;
+}
+
+.campo_asp {
+    padding-left: 10%;
+    border-radius: 14px;
+    border: none;
+    box-shadow: 0px 0px 5px rgb(5, 155, 5);
+    background: rgba(255, 255, 255, 0.6);
+    width: 100%;
+    height: 100%;
+}
+
+/* BOTÕES */
+
+.botoes {
+    margin: 0 auto;
+    margin-top: 3%;
+    background: transparent;
+    width: 70%;
+    height: 6%;
+}
+
+/* BOTÃO RESET */
+
+.limpar_asp {
+    cursor: pointer;
+    float: left;
+    border: none;
+    border-radius: 10px;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+    box-shadow: 0px 0px 8px rgb(5, 155, 5);
+    background: rgba(255, 255, 255, 0.6);
+    width: 25%;
+    height: 100%;
+    margin: 3% 0;
+}
+
+/* BOTÃO RESET - HOVER */
+
+.limpar_asp:hover {
+    animation: pulse;
+    animation-duration: 0.4s;
+    background: rgb(5, 155, 5);
+    color: white;
+} 
+
+/* BOTÃO ENVIAR */
+
+.enviar_asp {
+    cursor: pointer;
+    float: right;
+    border: none;
+    border-radius: 10px;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: black;
+    box-shadow: 0px 0px 8px rgb(5, 155, 5);
+    background: rgba(255, 255, 255, 0.6);
+    width: 25%;
+    height: 100%;
+    margin: 3% 0;
+}
+
+/* BOTÃO ENVIAR - HOVER */
+
+.enviar_asp:hover {
+    animation: pulse;
+    animation-duration: 0.4s;
+    background: rgb(5, 155, 5);
+    color: white;
+} 

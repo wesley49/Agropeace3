@@ -1,0 +1,370 @@
+/*
+GERAL
+*/
+
+body {
+
+}
+
+/* HEADER */
+
+#header {
+    background: white;
+    width: 100%;
+    height: 10%;   
+    position: fixed;
+    z-index: 5;
+}
+
+/* 
+CONTAINER NAVEGAÇÃO 
+*/
+
+.container_nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+}
+
+/*
+NAVEGAÇÃO - ESQUERDA
+*/
+
+.nav_left {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.left ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0 auto;
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-left: -8.5%;
+}
+
+.left ul a {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.left li {
+    margin-top: 15%;
+}
+
+.left a:hover {
+    background: #0d3b02;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+/* 
+NAVEGAÇÃO - IMAGEN
+*/
+
+.nav_logo {
+    background: transparent;
+    width: 10%;
+    text-align: center;
+}
+
+.nav_logo img {
+    width: 60%;
+    height: 110%;
+}
+
+
+/* 
+NAVEGAÇÃO - DIREITA
+*/
+
+.nav_right {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.right ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0 auto;
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.right ul a {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.right li {
+    margin-top: 10%;
+}
+
+.right a:hover {
+    background: #0d3b02;
+    transition-duration: 1s;
+    color: white;
+}
+
+
+/* MAIN */
+
+/*
+MAIN PARALLAX
+*/
+
+.main_parallax {
+    widows: 100%;
+    height: 100%;
+}
+
+.mparallax {
+    display: table;
+    background-image: url("../img/backs/bgarduino1.jpg");
+    background: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+/* PARALAXX - TEXT */
+
+.parallax_text {
+    background: rgba(255, 255, 255, 0.4);
+    margin: 17% 33%;
+    width: 70vh;
+    height: 40vh;
+    text-align: center;
+}
+
+.txt {
+    padding-top: 22%; 
+}
+
+
+/* CONTENT ABOUT */
+
+.content_about {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 80%;
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.about_img {
+    float: left;
+    background: transparent;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+}
+
+.about_text {
+    float: right;
+    background: transparent;
+    width: 50%;
+    height: 100%;
+}
+
+.about_img img{
+    width: 50%;
+    height: 50%;
+    margin-top: 20%;
+}
+
+.about_text p {
+    margin: 0 auto;
+    background: transparent;
+    width: 80%;
+    height: 30%;
+    text-align: center;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.about_text h4 {
+    margin: 0 auto;
+    margin-top: 30%;
+    background: transparent;
+    text-align: center;
+    width: 40%;
+    height: 10%;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+
+/* CONTENT INOVATION */
+
+.content_inovation {
+    background: white;
+    width: 100%;
+    height: 80%;
+}
+
+.inovation_text {
+    float: left;
+    width: 50%;
+    height: 100%;
+    background: transparent;
+}
+
+.inovation_text h4 {
+    background:transparent;
+    margin: 0 auto;
+    margin-top: 30%;
+    text-align: center;
+    width: 60%;
+    height: 10%;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+.inovation_text p {
+    margin: 0 auto;
+    background: transparent;
+    width: 80%;
+    height: 30%;
+    text-align: center;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.inovation_img {
+    float: right;
+    width: 50%;
+    height: 100%;
+    background: transparent;
+    text-align: center;
+}
+
+.inovation_img img {
+    width: 60%;
+    height: 60%;
+    margin-top: 13%;
+}
+
+
+/*
+COMUNICAÇÕES
+*/
+
+.row {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+}
+
+.sobre {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.help {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.redes {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.imagens  {
+    background: #0d3b02;
+    width: 35%;
+    margin: 0 auto;
+}
+
+.imagens img {
+    background: white;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.imagens img:hover {
+    animation: jello;
+    animation-duration: 0.5s;
+}
+
+
+/* COMUNICAÇÕES - TEXT */
+
+.row h4 {
+    color: white;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+.txt_footer {
+    color: white;
+    font-size: 16px;
+}
+
+
+/* COMUNICAÇÕES - BOTÃO */
+
+.row button {
+    cursor: pointer;
+    border: 3px solid black;
+    background: white;
+    width: 30%;
+    height: 15%;
+    box-shadow: 0px 0px 10px white;
+}
+
+.row button:hover {
+    animation: pulse;
+    animation-duration: 0.5s;
+}

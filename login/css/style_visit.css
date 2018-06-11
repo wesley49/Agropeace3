@@ -1,0 +1,180 @@
+/*
+GERAL
+*/
+
+body {
+    width:100%;
+    height:100%;
+}
+
+
+/* HEADER */
+
+#header {
+    background: white;
+    width: 100%;
+    height: 10%;
+    z-index: 5;
+}
+
+/*
+NAVEGAÇÃO
+*/
+
+.container_nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+}
+
+/*
+CONTENT - LEFT
+*/
+
+.content_left {
+    display: flex;
+    flex-direction: row;
+    width: 6%;
+    background: transparent;
+    text-align: center;
+}
+
+.content_left img {
+    width: 110%;
+    height: 110%;
+}
+
+
+/*
+CONTENT - RIGHT 
+*/
+
+.content_right {
+    display: flex;
+    flex-direction: row;
+    width: 94%;
+    height: 100%;
+    background: transparent;
+    border-bottom: 2px solid black;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    height: 100%;
+    width: 45%;    
+}
+
+.menu ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    background: transparent;
+    margin: 0;
+    height: 100%;
+    width: 35%;
+    text-align: center;
+}
+
+.menu ul a {
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.menu li {
+    margin-top: 10%;
+}
+
+/* NAVEGAÇÃO - HOVER */
+
+.menu a:hover {
+    background: #0d3b02;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+/* MAIN */
+
+
+/*
+MENU LATERAL
+*/
+
+.menu_lateral {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1%;
+    background: transparent;
+    width: 6%;
+    height: 87.88%;
+    border-right: 2px solid black;
+}
+
+.icons {
+    cursor: pointer;
+    background: transparent;
+    width: 100%;
+    height: 19%;
+    text-align: center;
+}
+
+.icons img {
+    width: 67%;
+    height: 67%;
+}
+
+.icons p {
+    margin: 0;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.icons:hover {
+    background: #34a718;
+    color: white;
+    transition-duration: 1s;
+    animation: pulse;
+    animation-duration: 1s;
+}
+
+
+/*CONTEUDO*/
+
+.content_all {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    height: 300px;
+    width: 100%;
+}
+
+.conteudo {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    height: 100%;
+    width: 45%;
+    background-color:antiquewhite;
+    margin:auto;
+}
+
+.btnConteudo {
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background: rgba(255, 255, 255, 0.6);
+    background-color: forestgreen;
+    width: 48%;
+    height: 20px;
+}

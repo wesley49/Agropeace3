@@ -1,0 +1,352 @@
+/* CONTEÚDO GERAL */
+
+body {
+    background: transparent;
+    width: 100%;row
+    height: 100%;
+}
+
+/* CONTEÚDO DO HEADER */
+
+#header {
+    position: fixed;
+    z-index: 5;
+    background: white;
+    width: 100%;
+    height: 10%;   
+}
+
+/* CONTAINER - NAVEGAÇÃO */
+
+.container_nav {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+/* MENU NAVEGAÇÃO - ESQUERDA */
+
+.nav_left {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.left ul {
+    margin: 0 auto;
+    margin-left: -8.5%;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-align: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.left ul a {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0d3b02;
+    text-decoration: none;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.left li {
+    margin-top: 15%;
+}
+
+.left a:hover {
+    background: #0d3b02;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+/* MENU NAVEGAÇÃO - IMAGEM */
+
+.nav_logo {
+    background: transparent;
+    text-align: center;
+    width: 10%;
+}
+
+.nav_logo img {
+    width: 60%;
+    height: 110%;
+}
+
+
+/* MENU NAVEGAÇÃO - DIREITA */
+
+.nav_right {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.right ul {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    text-align: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.right ul a {
+    font-size: 20px;
+    font-weight: 700;
+    color: #0d3b02;
+    text-decoration: none;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.right li {
+    margin-top: 10%;
+}
+
+.right a:hover {
+    background: #0d3b02;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+/* MAIN */
+
+/*
+BLOCK 1
+*/
+
+#main {
+    background: white;
+    width: 100%;
+    height: 100%;
+}
+
+.block1 {
+    float: left;
+    text-align: center;
+    background: white;
+    width: 50%;
+    height: 100%;
+    margin-top: 4.5%;
+}
+
+.block1 img {
+    margin-top: 25vh;
+}
+
+/*
+BLOCK 2 
+*/
+
+.block2 {
+    float: right;
+    background: rgba(0, 255, 0, 0.1);
+    width: 50%;
+    height: 700px;
+    margin-top: 4.5%;
+}
+
+/* FORMULÁRIO */
+
+form {
+    padding-top: 1%;
+}
+
+.text {
+    margin: 0 auto;
+    padding: 0;
+    border-bottom: 1px solid #0d3b02;
+    text-align: center;
+    color: #0d3b02;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    background: transparent;
+    width: 30%;
+    height: 5%;
+}
+
+.container_form {
+    margin: 0 auto;
+    margin-top: 5%;
+    box-shadow: 0px 0px 10px black, inset 0px 0px 3px green;
+    background: transparent;
+    width: 70%;
+    height: 90%;
+}
+
+.campo {
+    margin: 0 auto;
+    margin-top: 5%;
+    background: transparent;
+    width: 80%;
+    height: 7%;
+}
+
+.campo_asp {
+    padding-left: 3%;
+    border: none;
+    box-shadow: 0px 0px 2px black;
+    background: transparent;
+    width: 100%;
+    height: 40px;
+}
+
+::-webkit-input-placeholder {
+	color: grey;
+}
+
+.descricao {
+    margin: 0 auto;
+    margin-top: 10%;
+    background: transparent;
+    width: 80%;
+    height: 25%;
+}
+
+.textarea_asp {
+    border: none;
+    box-shadow: 0px 0px 2px black;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+    resize: none;
+}
+
+.enviar {
+    margin: 0 auto;
+    margin-top: 6%;
+    background: green;
+    width: 22%;
+    height:40px;
+}
+
+.enviar_asp {
+    cursor: pointer;
+    color: #0d3b02;
+    border: none;
+    box-shadow: 0px 0px 10px black, inset 0px 0px 3px green;
+    width: 100%;
+    height: 100%;
+}
+
+.enviar_asp:hover {
+    transition-duration: 1s;
+    box-shadow: 0px 0px 10px black, inset 0px 0px 3px green;
+    color: white;
+    background: rgba(37, 173, 37, 0.7);
+}
+
+/* COMUNICAÇÕES */
+
+.row {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+    
+}
+
+.about {
+    padding-top: 3%;
+    background: #0d3b02;
+    width: 40%;
+}
+
+.help {
+    padding-top: 3%;
+    background: #0d3b02;
+    width: 40%;
+}
+
+.social {
+    padding-top: 3%;
+    background: #0d3b02;
+    width: 40%;
+}
+
+/* SUB-DIV */
+
+.social_medias  {
+    margin: 0 auto;
+    background: #0d3b02;
+    width: 35%;
+}
+
+.social_medias img {
+    border: 1px solid black;
+    border-radius: 20px;
+    background: white;
+    width: 6vh;
+    height: 6vh;
+}
+
+.social_medias img:hover {
+    animation: jello;
+    animation-duration: 0.5s;
+}
+
+
+/* COMUNICAÇÕES - TEXT */
+
+.row h4 {
+    color: white;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+.txt_footer {
+    color: white;
+    font-size: 16px;
+}
+
+
+/* COMUNICAÇÕES - BUTTON */
+
+.row button {
+    cursor: pointer;
+    border: 3px solid black;
+    box-shadow: 0px 0px 10px white;
+    background: white;
+    width: 20vh;
+    height: 6vh;
+}
+
+.row button:hover {
+    animation: pulse;
+    animation-duration: 0.5s;
+}

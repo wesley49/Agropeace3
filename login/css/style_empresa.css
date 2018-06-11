@@ -1,0 +1,567 @@
+/*
+GERAL
+*/
+
+body {
+
+}
+
+/* HEADER */
+
+#header {
+    background: white;
+    width: 100%;
+    height: 10%;   
+    position: fixed;
+    z-index: 5;
+}
+
+/* 
+CONTAINER NAVEGAÇÃO 
+*/
+
+.container_nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+}
+
+/*
+NAVEGAÇÃO - ESQUERDA
+*/
+
+.nav_left {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.nleft {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.nleft ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0 auto;
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-left: -8.5%;
+}
+
+.nleft ul a {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nleft li {
+    margin-top: 15%;
+}
+
+.nleft a:hover {
+    background: #0d3b02;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+/* 
+NAVEGAÇÃO - IMAGEN
+*/
+
+.nav_logo {
+    background: transparent;
+    width: 10%;
+    text-align: center;
+}
+
+.nav_logo img {
+    width: 60%;
+    height: 110%;
+}
+
+
+/* 
+NAVEGAÇÃO - DIREITA
+*/
+
+.nav_right {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.nright {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.nright ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0 auto;
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.nright ul a {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.nright li {
+    margin-top: 10%;
+}
+
+.nright a:hover {
+    background: #0d3b02;
+    transition-duration: 1s;
+    color: white;
+}
+
+
+
+/* MAIN*/
+
+/* 
+MAIN PARALLAX 
+*/
+
+.main_parallax {
+    width: 100%;
+    height: 100%;
+}
+
+.mparallax {
+    display: table;
+    background-image: url("../img/backs/bgempresa1.jpg");
+    background: cover;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+}
+
+/* PARALLAX - TEXT */
+
+.parallax_text {
+    background: rgba(255, 255, 255, 0.4);
+    margin: 19% 33%;
+    width: 70vh;
+    height: 40vh;
+    text-align: center;
+}
+
+.txt {
+    padding-top: 22%;
+}
+
+
+/* 
+CONTENT COMPANY 
+*/
+
+.content_company {
+    background: yellow;
+    width: 100%;
+    height: 80%;
+}
+
+/* COMPANY - ILLUSTRATION */
+
+.illustration {
+    background: rgba(255, 255, 255, 0.9);
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    float: left;
+}
+
+.illustration img {
+    width: 75%;
+    height: 75%;
+    margin-top: 8%;
+}
+
+/* COMPANY - TEXT */
+
+.company_txt {
+    background: rgba(255, 255, 255, 0.9);
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
+.company_txt p {
+    margin: 0 auto;
+    margin-top: 1%;
+    background: transparent;
+    width: 80%;
+    height: 30%;
+    text-align: center;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.company_txt h4 {
+    margin: 0 auto;
+    margin-top: 30%;
+    padding: 0;
+    background: transparent;
+    text-align: center;
+    width: 40%;
+    height: 10%;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+
+
+/*
+IDENTAÇÃO
+*/
+
+.identity {
+    width: 100%;
+    height: 20%;
+    background: rgba(255, 255, 0, 0.1);
+}
+
+
+/* TIME LINE */
+
+.content_time {
+    background: white;
+    width: 100%;
+    height: 130%;
+}
+
+.content_time h1 {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 29px;
+    background: transparent;
+}
+
+.timeline {
+    background: white;
+    position: relative;
+    text-align: center;
+}
+
+/* ALINHAMENTO GERAL */
+
+.container {
+    padding: 10px 40px;
+    position: relative;
+    background: inherit;
+    width: 50%;
+}
+
+/* ALOCAÇÕES  */
+
+.left {
+    left: -4%;
+}
+
+.right {
+    left: 48%;
+}
+
+/* INSERÇÃO DOS ARROWS */
+
+.left::before {
+    content: "";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    right: 30px;
+    border: medium solid rgba(0, 0, 0, 0.4);
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent rgba(0, 0, 0, 0.4);
+}
+
+.right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid rgba(0, 0, 0, 0.4);
+    border-width: 10px 10px 10px 0;
+    border-color: transparent rgba(0, 0, 0, 0.4) transparent transparent;
+}
+
+/* CONTEÚDO DAS CAIXAS */
+
+.content {
+    padding: 20px 30px;
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+    border-radius: 6px;
+}
+
+
+/* QUEM SOMOS */
+
+/* 
+CONTENT WHO 
+*/
+
+.content_who {
+    width: 100%;
+    height: 90%;
+    background: white;
+}
+
+/* WHO - TEXT */
+
+.content_who h1 {
+    margin: 0;
+    margin-top: 10%;
+    padding: 0;
+    text-align: center;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    height: 10%;
+    width: 100%;
+}
+
+/* CONTEÚDO GERAL */
+
+.line {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+}
+
+/* COLUNAS DE DIVISÃO */
+
+.column {
+    width: 25%;
+    height: 80%;
+    background: white;
+    text-align: center;
+}
+
+/* CARDS (QUADRADOS) */
+
+.card img {
+    width: 60%;
+    height: 30%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+.card {
+    background: rgba(0, 0, 0, 0.1);
+    margin: 0 1%;
+    width: 90%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 5px 10px 0px rgba(0, 0, 0, 0.7);
+}
+
+.card_container {
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    width: 90%;
+    height: 60%;
+}
+
+/* CARD - TEXT */
+
+.card_container h2 {
+    margin: 0;
+    margin-top: 4%;
+    padding: 0;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+
+.card_container p {
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    flex-wrap: wrap;
+}
+
+/* ESPECIAL TEXTS */
+
+.title {
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.7)
+}
+
+.email {
+    color: rgba(0, 0, 0, 0.7);
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+/* WHO - BUTTON */
+
+.button {
+    cursor: pointer;
+    border: 1px solid black;
+    background: transparent;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    box-shadow: 0px 0px 10px white, inset 0px 0px 3px white;
+}
+
+.button:hover {
+    animation: pulse;
+    animation-duration: 1s;
+}
+
+
+/* PARCEIROS */
+
+.content_partner {
+    background: rgba(0, 0, 0, 0.1);
+    width: 100%;
+    height: 30%;
+}
+
+.content_partner h1 {
+    margin: 0;
+    margin-top: 7%;
+    padding: 0;
+    text-align: center;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    width: 100%;
+    height: 20%;
+    background: transparent;
+}
+
+/*
+PARTNERS
+*/
+
+.partners {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.partners img {
+    margin: 3% 6%;
+}
+
+
+/*
+COMUNICAÇÕES
+*/
+
+.row {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+}
+
+.sobre {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.help {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.redes {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.imagens  {
+    background: #0d3b02;
+    width: 35%;
+    margin: 0 auto;
+}
+
+.imagens img {
+    background: white;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.imagens img:hover {
+    animation: jello;
+    animation-duration: 0.5s;
+}
+
+
+/* COMUNICAÇÕES - TEXT */
+
+.row h4 {
+    color: white;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+.txt_footer {
+    color: white;
+    font-size: 16px;
+}
+
+
+/* COMUNICAÇÕES - BOTÃO */
+
+.row button {
+    cursor: pointer;
+    border: 3px solid black;
+    background: white;
+    width: 30%;
+    height: 15%;
+    box-shadow: 0px 0px 10px white;
+}
+
+.row button:hover {
+    animation: pulse;
+    animation-duration: 0.5s;
+}

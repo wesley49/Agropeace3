@@ -1,0 +1,630 @@
+/*
+GERAL
+*/
+
+body {
+    background: #0d3b02;
+    width: 100%;
+    height: 100%;
+}
+
+/* HEADER */
+
+#header {
+    background: white;
+    width: 100%;
+    height: 10%;   
+    position: fixed;
+    z-index: 5;
+}
+
+/* 
+CONTAINER NAVEGAÇÃO 
+*/
+
+.container_nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+}
+
+/*
+NAVEGAÇÃO - ESQUERDA
+*/
+
+.nav_left {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.left {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.left ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0 auto;
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin-left: -8.5%;
+}
+
+.left ul a {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.left li {
+    margin-top: 15%;
+}
+
+.left a:hover {
+    background: #0d3b02;
+    color: white;
+    transition-duration: 1s;
+}
+
+
+/* 
+NAVEGAÇÃO - IMAGEN
+*/
+
+.nav_logo {
+    background: transparent;
+    width: 10%;
+    text-align: center;
+}
+
+.nav_logo img {
+    width: 60%;
+    height: 110%;
+}
+
+
+/* 
+NAVEGAÇÃO - DIREITA
+*/
+
+.nav_right {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 45%;
+    height: 100%;
+}
+
+.right {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: transparent;
+    width: 100%;
+    height: 100%;
+}
+
+.right ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    margin: 0 auto;
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.right ul a {
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: #0d3b02;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.right li {
+    margin-top: 10%;
+}
+
+.right a:hover {
+    background: #0d3b02;
+    transition-duration: 1s;
+    color: white;
+}
+
+/* MAIN PARALLAX */
+
+.main_parallax {
+    width: 100%;
+    height: 100%;
+
+}
+
+.mparallax {
+    display: table;
+    background-image: url("../img/backs/garden1.jpg");
+    background: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+/*
+PARALLAX - TEXT
+*/
+
+.txt_parallax {
+    margin: 0 auto;
+    margin-top: 10%;
+    background: rgba(255, 255, 255, 0.6);
+    text-align: center;
+    width: 90vh;
+    height: 27vh;
+}
+
+.txt_parallax h4 {
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+.txt_parallax {
+    font-size: 18px;
+}
+
+/*
+PARALLAX - DADOS
+*/
+
+.dados {
+    background: transparent;
+    margin: 0 auto;
+    margin-top: 7%;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    height: 22%;
+}
+
+.dados_square {
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.6);
+    height: 21vh;
+    width: 25vh;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px black;
+}
+
+/*
+DADOS - INFORMAÇÕES
+*/
+
+.counter {
+    margin: 0;
+    padding: 0;
+    padding-top: 8%;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 55px;
+}
+
+.text {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+
+/* GRID */
+
+.grid {
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 70%
+}
+
+/*
+GRID - BLOCOS
+*/
+
+.content_lines {
+    background: transparent;
+    width: 30%;
+    height: 90%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+
+/* LINHA 1 */
+
+.line1 {
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 45%;
+    margin: 0 auto;
+    margin-top: 3%;
+    float: left;
+}
+
+.line1 a {
+    text-decoration: none;
+    color: black;
+    margin: 0 5%;
+}
+
+.l1blocks {
+    cursor: pointer;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    width: 120%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.l1blocks img {
+    width: 90%;
+    height: 70%;
+    margin-top: 4%;
+}
+
+.l1blocks p {
+    padding: 0;
+    margin: 0;
+    margin-top: 5%;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+/* LINHA 1 - HOVER */
+
+.l1blocks:hover {
+    transition-duration: 0.7s;
+    background: rgba(37, 173, 37, 0.7);
+}
+
+/* LINHA 2 */
+
+.line2 {
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 45%;
+    margin: 0 auto;
+    margin-top: 3%;
+    float: left;
+}
+
+.line2 a {
+    text-decoration: none;
+    color: black;
+    margin: 0 5%;
+}
+
+.l2blocks {
+    cursor: pointer;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    width: 120%;
+    height: 100%;
+    border: 1px solid black;
+}
+
+.l2blocks img {
+    width: 90%;
+    height: 70%;
+    margin-top: 4%;
+}
+
+.l2blocks p {
+    padding: 0;
+    margin: 0;
+    margin-top: 5%;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+/* LINHA 2 - HOVER */
+
+.l2blocks:hover {
+    transition-duration: 0.7s;
+    background: rgba(37, 173, 37, 0.7);
+}
+
+
+/*
+IDENTAÇÃO
+*/
+
+.identity {
+    width: 100%;
+    height: 7%;
+    background: rgba(255, 255, 255, 0.9);
+}
+
+
+/* PARCEIROS */
+
+.parceiros {
+    width: 100%;
+    height: 80%;
+    background: white;
+    text-align: center;
+    padding-top: 5%;
+}
+
+/* PARCEIROS - TEXT */
+
+.parceiros h4 {
+    margin: 0;
+    padding: 0;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 26px;   
+    font-weight: 700; 
+}
+
+.parceiros p {
+    padding: 0;
+    font-size: 20px;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+}
+
+/* PARCEIROS - GERAL */
+
+.content_parceiros {
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.primary_line {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    height: 25%;
+    padding-top: 3%;
+}
+
+.second_line {
+    padding-top: 5%;
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    height: 25%;
+    padding-left: 3%;
+}
+
+
+/*
+INTEGRANTES
+*/
+
+.int {
+    display: flex;
+    flex-direction: row;
+}
+
+.int img {
+    background: white;
+    margin: 0 auto;
+}
+
+/* INTEGRANTES - HOVER */
+
+.int:hover {
+    animation: bounce;
+    animation-duration: 1s;
+}
+
+
+/*
+MISSÃO, VISÃO E VALORES
+*/
+
+/* ABOUT CONTENT */
+
+.about {
+    background: transparent;
+    border-bottom: 1px solid white;
+    position: absolute;
+    margin: 1% 35%;
+    width: 30%;
+    height: 5%;
+    text-align: center;
+}
+
+.about h4 {
+    margin: 0;
+    padding: 0;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}
+
+/* INFO CONTENT */
+
+.content_info {
+    background-image: url("../img/backs/terra.jpg");
+    background-attachment: fixed;
+    background: cover;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 85%;
+}
+
+.content_mvv {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.mvv {
+    margin: 0 auto;
+    margin: 0 2%;
+    margin-top: 2%;
+    align-items: center;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.7);
+    border: 2px solid black;
+    height: 40vh;
+    width: 40vh;
+}
+
+.mvv p {
+    padding: 0;
+    margin: 0;
+    margin-top: 8%;
+    font-size: 17px;
+    color: black;
+}
+
+.mvv img {
+    height: 50%;
+    width: 38%;
+    margin-top: 3%;
+}
+
+
+/* FOOTER */
+
+/*
+SQUARES
+*/
+
+.squares {
+    display: flex;
+    flex-direction: row;
+    background: transparent;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: -11%;
+}
+
+.contents {
+    align-items: center;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.5);
+    margin: 0 1%;
+}
+
+.contents img {
+    width: 55%;
+    height: 20%;
+    margin-top: 3%;
+}
+
+.contents p {
+    margin-top: 40%;
+}
+
+
+/*
+COMUNICAÇÕES
+*/
+
+.row {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    width: 100%;
+    height: 40%;
+}
+
+.sobre {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.help {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.redes {
+    background: #0d3b02;
+    width: 40%;
+    padding-top: 3%;
+}
+
+.imagens  {
+    background: #0d3b02;
+    width: 35%;
+    margin: 0 auto;
+}
+
+.imagens img {
+    background: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 6vh;
+    height: 6vh;
+}
+
+.imagens img:hover {
+    animation: jello;
+    animation-duration: 0.5s;
+}
+
+
+/* COMUNICAÇÕES - TEXT */
+
+.row h4 {
+    color: white;
+    font-family: "Rockwell Condensed", Arial, Helvetica, sans-serif;
+    font-size: 27px;
+}
+
+.txt_footer {
+    color: white;
+    font-size: 16px;
+}
+
+
+/* COMUNICAÇÕES - BOTÃO */
+
+.row button {
+    cursor: pointer;
+    border: 3px solid black;
+    background: white;
+    width: 20vh;
+    height: 6vh;
+    box-shadow: 0px 0px 10px white;
+}
+
+.row button:hover {
+    animation: pulse;
+    animation-duration: 0.5s;
+}

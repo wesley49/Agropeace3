@@ -1,0 +1,212 @@
+/* CONTEÚDO GERAL */
+
+body {
+    background-image: url("../img/backs/sunset.jpg");
+    background-size: 100% 130%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#header {
+    border-radius: 14px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 17%;
+    height: 8%;
+}
+
+    #header:hover {
+        animation: pulse;
+        animation-duration: 1s;
+    }
+
+/* MENU DE NAVEGAÇÃO */
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 55px;
+}
+
+    .menu img {
+        margin-top: 1%;
+        width: 30%;
+        height: 80%;
+    }
+
+    .menu a {
+        margin-top: 7%;
+        text-decoration: none;
+        color: black;
+        font-family: Rockwell, Arial, Helvetica, sans-serif;
+        font-size: 17px;
+    }
+
+/* CONTEÚDO MAIN */
+
+/* CONTENT LOGIN */
+
+.content_login {
+    margin: 0 auto;
+    margin-top: 3%;
+    width: 27%;
+    height: 70%;
+    text-align: center;
+    background: transparent;
+}
+
+.logo img {
+    width: 27%;
+    height: 22%;
+}
+
+input:focus {
+    outline: 0 none; /* Retira a borda padrão dos navegadores no momento de click no Input */
+}
+
+::-webkit-input-placeholder {
+    color: black;
+    font-size: 16px;
+}
+
+/* FORMULÁRIO */
+
+/* TEXTOS */
+
+.txtH {
+    margin: 0;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.txtP {
+    margin: 0;
+    margin-top: 1%;
+    padding: 0;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+/* CAMPOS */
+
+.campo {
+    margin: 0 auto;
+    margin-top: 4%;
+    background: transparent;
+    width: 90%;
+    height: 9%;
+}
+
+.campo_asp {
+    padding-left: 10%;
+    border-radius: 14px;
+    border: none;
+    background: rgba(255, 255, 255, 0.6);
+    width: 90%;
+    height: 40px;
+}
+
+/* BOTÕES */
+
+.buttons {
+    width: 100%;
+    height: 40px;
+    background: transparent;
+    margin-top: 17%;
+}
+
+/* BTN VOLTAR */
+
+.retornar {
+    float: left;
+    background: transparent;
+    width: 25%;
+    height: 8%;
+}
+
+.retornar_asp {
+    cursor: pointer;
+    border: none;
+    color: black;
+    border-radius: 14px;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 100%;
+    height: 40px;
+}
+
+/* BTN VOLTAR - HOVER */
+
+.retornar_asp:hover {
+    animation: pulse;
+    animation-duration: 0.4s;
+    background: rgb(5, 155, 5);
+    color: white;
+}
+
+/* BTN ENVIAR */
+
+.enviar {
+    float: right;
+    background: transparent;
+    width: 25%;
+    height: 8%;
+}
+
+.enviar_asp {
+    cursor: pointer;
+    border: none;
+    color: black;
+    border-radius: 14px;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.6);
+    width: 100%;
+    height: 40px;
+}
+
+    /* BTN ENVIAR - HOVER */
+
+    .enviar_asp:hover {
+        animation: pulse;
+        animation-duration: 0.4s;
+        background: rgb(5, 155, 5);
+        color: white;
+    }
+
+
+/* CONTEÚDO FOOTER */
+
+/* INFORMATION */
+
+.information {
+    margin: 0 auto;
+    margin-top: 4%;
+    text-align: center;
+    background: transparent;
+    width: 18%;
+    height: 10%;
+}
+
+/* TEXTOS */
+
+.text {
+    color: white;
+    font-family: Rockwell, Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+
+.text spam {
+    cursor: pointer;
+    color: rgb(5, 155, 5);
+    font-weight: 700;
+}
+
+.text a {
+    text-decoration: none;
+}

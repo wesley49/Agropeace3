@@ -1,0 +1,317 @@
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\csc.exe
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\csc.exe.config
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\csc.rsp
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\csi.exe
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\csi.rsp
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\vbc.exe
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\vbc.rsp
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Desktop\página_web\login\login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Desktop\página_web\login\login\bin\login.dll.config
+C:\Users\aluno\Desktop\página_web\login\login\bin\login.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\login.pdb
+C:\Users\aluno\Desktop\página_web\login\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\System.Web.Http.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Desktop\página_web\login\login\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\página_web\login\login\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Desktop\página_web\login\login\bin\System.Web.Http.xml
+C:\Users\aluno\Desktop\página_web\login\login\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Desktop\página_web\login\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\aluno\Desktop\página_web\login\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\aluno\Desktop\página_web\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\página_web\login\login\obj\Debug\login.dll
+C:\Users\aluno\Desktop\página_web\login\login\obj\Debug\login.pdb
+E:\band_tec\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+E:\band_tec\login\login\obj\Debug\login.dll
+E:\band_tec\login\login\obj\Debug\login.pdb
+E:\band_tec\login\login\bin\roslyn\csc.exe
+E:\band_tec\login\login\bin\roslyn\csc.exe.config
+E:\band_tec\login\login\bin\roslyn\csc.rsp
+E:\band_tec\login\login\bin\roslyn\csi.exe
+E:\band_tec\login\login\bin\roslyn\csi.rsp
+E:\band_tec\login\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\band_tec\login\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\band_tec\login\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\band_tec\login\login\bin\roslyn\System.AppContext.dll
+E:\band_tec\login\login\bin\roslyn\System.Collections.Immutable.dll
+E:\band_tec\login\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\band_tec\login\login\bin\roslyn\System.IO.FileSystem.dll
+E:\band_tec\login\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\band_tec\login\login\bin\roslyn\System.Reflection.Metadata.dll
+E:\band_tec\login\login\bin\roslyn\vbc.exe
+E:\band_tec\login\login\bin\roslyn\vbc.exe.config
+E:\band_tec\login\login\bin\roslyn\vbc.rsp
+E:\band_tec\login\login\bin\roslyn\VBCSCompiler.exe
+E:\band_tec\login\login\bin\roslyn\VBCSCompiler.exe.config
+E:\band_tec\login\login\bin\login.dll.config
+E:\band_tec\login\login\bin\login.dll
+E:\band_tec\login\login\bin\login.pdb
+E:\band_tec\login\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\band_tec\login\login\bin\Newtonsoft.Json.dll
+E:\band_tec\login\login\bin\System.Net.Http.Formatting.dll
+E:\band_tec\login\login\bin\System.Web.Http.dll
+E:\band_tec\login\login\bin\System.Web.Http.WebHost.dll
+E:\band_tec\login\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\band_tec\login\login\bin\Newtonsoft.Json.xml
+E:\band_tec\login\login\bin\System.Net.Http.Formatting.xml
+E:\band_tec\login\login\bin\System.Web.Http.xml
+E:\band_tec\login\login\bin\System.Web.Http.WebHost.xml
+E:\band_tec\login\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\band_tec\login\login\bin\pt-br\System.Web.Http.resources.dll
+E:\band_tec\login\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\csc.exe
+C:\Users\aluno\Desktop\login\login\bin\roslyn\csc.exe.config
+C:\Users\aluno\Desktop\login\login\bin\roslyn\csc.rsp
+C:\Users\aluno\Desktop\login\login\bin\roslyn\csi.exe
+C:\Users\aluno\Desktop\login\login\bin\roslyn\csi.rsp
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Desktop\login\login\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Desktop\login\login\bin\roslyn\vbc.exe
+C:\Users\aluno\Desktop\login\login\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Desktop\login\login\bin\roslyn\vbc.rsp
+C:\Users\aluno\Desktop\login\login\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Desktop\login\login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Desktop\login\login\bin\login.dll.config
+C:\Users\aluno\Desktop\login\login\bin\login.dll
+C:\Users\aluno\Desktop\login\login\bin\login.pdb
+C:\Users\aluno\Desktop\login\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Desktop\login\login\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\login\login\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Desktop\login\login\bin\System.Web.Http.dll
+C:\Users\aluno\Desktop\login\login\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Desktop\login\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Desktop\login\login\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\login\login\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Desktop\login\login\bin\System.Web.Http.xml
+C:\Users\aluno\Desktop\login\login\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Desktop\login\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\aluno\Desktop\login\login\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\aluno\Desktop\login\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\aluno\Desktop\login\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\login\login\obj\Debug\login.dll
+C:\Users\aluno\Desktop\login\login\obj\Debug\login.pdb
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\csc.exe
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\csc.exe.config
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\csc.rsp
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\csi.exe
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\csi.rsp
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\vbc.exe
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\vbc.rsp
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Desktop\Agropeace\login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Desktop\Agropeace\login\bin\login.dll.config
+C:\Users\aluno\Desktop\Agropeace\login\bin\login.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\login.pdb
+C:\Users\aluno\Desktop\Agropeace\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\System.Web.Http.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Desktop\Agropeace\login\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Agropeace\login\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Desktop\Agropeace\login\bin\System.Web.Http.xml
+C:\Users\aluno\Desktop\Agropeace\login\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Desktop\Agropeace\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\aluno\Desktop\Agropeace\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\aluno\Desktop\Agropeace\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Agropeace\login\obj\Debug\login.dll
+C:\Users\aluno\Desktop\Agropeace\login\obj\Debug\login.pdb
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\csc.exe
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\csc.exe.config
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\csc.rsp
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\csi.exe
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\csi.rsp
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\System.AppContext.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\vbc.exe
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\vbc.exe.config
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\vbc.rsp
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sparda\Desktop\Agropeace\login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sparda\Desktop\Agropeace\login\bin\login.dll.config
+C:\Users\Sparda\Desktop\Agropeace\login\bin\login.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\login.pdb
+C:\Users\Sparda\Desktop\Agropeace\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\Newtonsoft.Json.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\System.Net.Http.Formatting.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\System.Web.Http.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\System.Web.Http.WebHost.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sparda\Desktop\Agropeace\login\bin\Newtonsoft.Json.xml
+C:\Users\Sparda\Desktop\Agropeace\login\bin\System.Net.Http.Formatting.xml
+C:\Users\Sparda\Desktop\Agropeace\login\bin\System.Web.Http.xml
+C:\Users\Sparda\Desktop\Agropeace\login\bin\System.Web.Http.WebHost.xml
+C:\Users\Sparda\Desktop\Agropeace\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\Sparda\Desktop\Agropeace\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\Sparda\Desktop\Agropeace\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\Sparda\Desktop\Agropeace\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+C:\Users\Sparda\Desktop\Agropeace\login\obj\Debug\login.csproj.CopyComplete
+C:\Users\Sparda\Desktop\Agropeace\login\obj\Debug\login.dll
+C:\Users\Sparda\Desktop\Agropeace\login\obj\Debug\login.pdb
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\csc.exe
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\csc.exe.config
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\csc.rsp
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\csi.exe
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\csi.rsp
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\vbc.exe
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\vbc.rsp
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Desktop\Agropeace2\login\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Desktop\Agropeace2\login\bin\login.dll.config
+C:\Users\aluno\Desktop\Agropeace2\login\bin\login.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\login.pdb
+C:\Users\aluno\Desktop\Agropeace2\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\System.Net.Http.Formatting.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\System.Web.Http.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\System.Web.Http.WebHost.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Desktop\Agropeace2\login\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Agropeace2\login\bin\System.Net.Http.Formatting.xml
+C:\Users\aluno\Desktop\Agropeace2\login\bin\System.Web.Http.xml
+C:\Users\aluno\Desktop\Agropeace2\login\bin\System.Web.Http.WebHost.xml
+C:\Users\aluno\Desktop\Agropeace2\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\aluno\Desktop\Agropeace2\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\aluno\Desktop\Agropeace2\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Agropeace2\login\obj\Debug\login.dll
+C:\Users\aluno\Desktop\Agropeace2\login\obj\Debug\login.pdb
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\csc.exe
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\csc.exe.config
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\csc.rsp
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\csi.exe
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\csi.rsp
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\System.AppContext.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\System.Collections.Immutable.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\System.IO.FileSystem.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\System.Reflection.Metadata.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\vbc.exe
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\vbc.exe.config
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\vbc.rsp
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\VBCSCompiler.exe
+E:\Portfólio Front-End\Agropeace2\login\bin\roslyn\VBCSCompiler.exe.config
+E:\Portfólio Front-End\Agropeace2\login\bin\login.dll.config
+E:\Portfólio Front-End\Agropeace2\login\bin\login.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\login.pdb
+E:\Portfólio Front-End\Agropeace2\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\Newtonsoft.Json.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\System.Net.Http.Formatting.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\System.Web.Http.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\System.Web.Http.WebHost.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Portfólio Front-End\Agropeace2\login\bin\Newtonsoft.Json.xml
+E:\Portfólio Front-End\Agropeace2\login\bin\System.Net.Http.Formatting.xml
+E:\Portfólio Front-End\Agropeace2\login\bin\System.Web.Http.xml
+E:\Portfólio Front-End\Agropeace2\login\bin\System.Web.Http.WebHost.xml
+E:\Portfólio Front-End\Agropeace2\login\bin\pt-br\System.Net.Http.Formatting.resources.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\pt-br\System.Web.Http.resources.dll
+E:\Portfólio Front-End\Agropeace2\login\bin\pt-br\System.Web.Http.WebHost.resources.dll
+E:\Portfólio Front-End\Agropeace2\login\obj\Debug\login.csprojResolveAssemblyReference.cache
+E:\Portfólio Front-End\Agropeace2\login\obj\Debug\login.dll
+E:\Portfólio Front-End\Agropeace2\login\obj\Debug\login.pdb
